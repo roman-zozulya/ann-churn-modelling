@@ -1,1 +1,2 @@
-# ann-churn-modelling
+# Bank clients churn modelling
+
